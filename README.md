@@ -1,2 +1,2 @@
-# firefox_Extractor
-Linux sistemlerde Firefox tarayıcısının history databasesini çekip görüntülememizi sağlar.
+# Firefox_Extractor
+On Linux systems, it allows us to pull and display the history database of the Firefox browser.
